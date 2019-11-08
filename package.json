@@ -1,0 +1,25 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "a questionaire compares your answer with others finding the most similar user. express and path are both used.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stvnwslybwmnjr/FriendFinder.git"
+  },
+  "author": "Steven Bowman <stevenbowmanjr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stvnwslybwmnjr/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Stvnwslybwmnjr/FriendFinder#readme"
+}
