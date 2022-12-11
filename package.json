@@ -4,7 +4,7 @@
   "description": "a questionaire compares your answer with others finding the most similar user. express and path are both used.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7"
   },
   "devDependencies": {},
